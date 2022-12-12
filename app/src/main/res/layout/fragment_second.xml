@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="This is second fragment. Come to first fragment?"
         android:textAlignment="center"
-        android:textColor="@color/black"
+        android:textColor="@color/purple_500"
         android:textSize="30sp"
         android:layout_marginTop="30dp"
         app:layout_constraintEnd_toEndOf="parent"
